@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @IcePrince7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-IcePrince7/IcePrince7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  👋 Hi, I'm Sakthi
+👀 I’m passionate about building a world with innovative software solutions.
+🌱 Currently, I’m working as a Software Engineer.
+📫 You can reach me through my portfolio website => https://iceprince7.github.io/port-folio
